@@ -28,3 +28,6 @@ button{
 button:hover{
     background-color: cornflowerblue;
 }
+h2{
+    color: rgb(75, 75, 223);
+}
